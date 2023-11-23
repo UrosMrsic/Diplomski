@@ -1,0 +1,24 @@
+1
+Uros
+Mrsic
+Gospodar prstenova
+11
+9
+2
+Dimitrije
+Krstic
+Kirka
+25
+8
+6
+Uros
+Mrsic
+abc
+13
+9
+7
+Jovan
+Mrsic
+Kirka
+20
+9
